@@ -20,3 +20,6 @@ And then to execute the editor
 Bugs can be reported in the issues coloumn and they will be fixed soon.
 Known bugs can be found in the issues page too.
 
+### EDITOR VIEW!
+---
+<img src='editor.png' width=430>
